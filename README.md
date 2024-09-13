@@ -7,4 +7,5 @@
 3. Run `go run microservice.go` from the root of the project directory
 
 ### Unit tests
-- To be done
+1. Run `go test ./...` from the root of the project directory
+2. Currently only one test case exist. To be done.
